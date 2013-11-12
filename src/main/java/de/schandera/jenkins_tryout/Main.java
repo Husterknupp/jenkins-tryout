@@ -1,6 +1,6 @@
-package de.schandera.jOOQ_Tutorial;
+package de.schandera.jenkins_tryout;
 
-import static de.schandera.jOOQ_Tutorial.GeneratedClasses.Tables.POSTS;
+import static de.schandera.jenkins_tryout.GeneratedClasses.Tables.POSTS;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
