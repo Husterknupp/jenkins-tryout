@@ -11,4 +11,9 @@ public class FunctionNoGuiTest {
 		assertThat(FunctionNoGui.return42()).isEqualTo(42);
 	}
 
+	@Test
+	public void testAdd1and1() {
+		assertThat(FunctionNoGui.sum1and1()).isEqualTo(2);
+	}
+
 }
